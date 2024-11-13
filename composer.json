@@ -1,0 +1,19 @@
+{
+  "name": "admsvist/otus-hw3",
+  "description": "Home Work 3",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mikhail",
+      "email": "admishut@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Admsvist\\OtusHwThree\\": "src/"
+    }
+  },
+  "require": {
+  }
+}
